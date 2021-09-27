@@ -15,7 +15,7 @@ The analysis focusses on three main questions:
 
 The average price is stable throughout the year with the only spike around christmas while prices in different neighbourhoods differs very much. Other factors are mainly size and extra equipment related: a bigger appartment with better equipment costs more.
 
-The full analysis can be read on <TODO: add link>.
+The full analysis can be read on https://medium.com/@david.zils/airbnb-data-from-berlin-analyzed-6db51fcbfbec.
 
 ## This project was created with following libraries:
 - python 3.8.10
