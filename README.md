@@ -29,4 +29,4 @@ The full analysis can be read on <TODO: add link>.
 
 - airbnbberlin.ipynb - Python notebook with all the code for this analysis
 
-The analyzed data was taken from https://www.kaggle.com/brittabettendorf/berlin-airbnb-data
+The data was taken from https://www.kaggle.com/brittabettendorf/berlin-airbnb-data
